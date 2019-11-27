@@ -16,6 +16,6 @@
   },
   "scripts": {
     "dev:server": "nodemon -q .",
-    "build": "[NodeJS] build --output public"
+    "build": ""
   }
 }
