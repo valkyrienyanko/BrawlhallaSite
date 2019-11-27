@@ -15,6 +15,7 @@
     "nodemon": "^2.0.1"
   },
   "scripts": {
-    "dev:server": "nodemon -q ."
+    "dev:server": "nodemon -q .",
+    "build": "[NodeJS] build --output public"
   }
 }
