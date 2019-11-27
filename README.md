@@ -1,6 +1,6 @@
 # Brawlhalla Site
 ## About
-A website that displays statistics from the brawlhalla API.
+A website that displays information from the brawlhalla API. Note that you can click on any member in the clans list of members to display information about that user.
 
 Check out the latest deployments [here](https://github.com/valkyrienyanko/BrawlhallaSite/deployments).
 
