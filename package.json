@@ -16,6 +16,6 @@
   },
   "scripts": {
     "dev:server": "nodemon -q .",
-    "build": ""
+    "build": "echo 'from outerspace'"
   }
 }
