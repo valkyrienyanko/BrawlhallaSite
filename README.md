@@ -2,6 +2,8 @@
 ## About
 A website that displays statistics from the brawlhalla API.
 
+Check out the latest deployments [here](https://github.com/valkyrienyanko/BrawlhallaSite/deployments).
+
 ## Setup
 1. Clone `https://github.com/valkyrienyanko/BrawlhallaSite.git`
 2. Download and install `LTS` [Node.js](https://nodejs.org/en/).
