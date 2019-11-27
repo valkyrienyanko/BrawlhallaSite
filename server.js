@@ -32,6 +32,6 @@ app.get('/players/:playerID', function(req, res) {
   })
 })
 
-const port = 4000
+const port = process.env.PORT || 4000
 const server = app.listen(port)
 console.log('Listening on port ' + port)

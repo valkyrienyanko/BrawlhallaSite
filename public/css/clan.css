@@ -1,0 +1,19 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+  padding: 0;
+}
+
+li {
+	padding: 10px;
+}
+
+a {
+	transition-duration: 0.5s;
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: hotpink;
+}
