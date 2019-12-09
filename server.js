@@ -22,8 +22,6 @@ app.get('/clans/:clanID', function(req, res) {
 app.get('/players/:playerID', function(req, res) {
   const id = req.params.playerID;
   
-  console.log("APIKEY TEST: " + process.env.APIKEY)
-  
   const options = {
     url: 'https://api.brawlhalla.com/player/' + id + '/stats/?api_key=' + process.env.APIKEY,
     method: 'GET'
