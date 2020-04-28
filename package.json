@@ -15,7 +15,7 @@
     "nodemon": "^2.0.1"
   },
   "scripts": {
-    "dev:server": "nodemon -q .",
+    "dev:server": "cd src && nodemon -q server.js",
     "build": "echo 'from outerspace'"
   }
 }
