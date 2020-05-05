@@ -1,4 +1,13 @@
 # Brawlhalla Site
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=valkyrienyanko_BrawlhallaSite&metric=alert_status)](https://sonarcloud.io/dashboard?id=valkyrienyanko_BrawlhallaSite)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=valkyrienyanko_BrawlhallaSite&metric=ncloc)](https://sonarcloud.io/dashboard?id=valkyrienyanko_BrawlhallaSite)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=valkyrienyanko_BrawlhallaSite&metric=bugs)](https://sonarcloud.io/dashboard?id=valkyrienyanko_BrawlhallaSite)
+[![GitHub license](https://img.shields.io/github/license/valkyrienyanko/BrawlhallaSite?color=brightgreen)](https://github.com/valkyrienyanko/BrawlhallaSite/blob/master/LICENSE)
+[![Issues](https://img.shields.io/github/issues/valkyrienyanko/BrawlhallaSite)](https://github.com/valkyrienyanko/BrawlhallaSite/issues)
+[![Discord](https://img.shields.io/discord/453710350454620160.svg)](https://discordapp.com/invite/N9QVxbM)
+[![GitHub stars](https://img.shields.io/github/stars/valkyrienyanko/BrawlhallaSite?color=brightgreen)](https://github.com/valkyrienyanko/BrawlhallaSite/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/valkyrienyanko/BrawlhallaSite?color=brightgreen)](https://github.com/valkyrienyanko/BrawlhallaSite/network)
+
 ## About
 A website that displays information from the brawlhalla API. Note that you can click on any member in the clans list of members to display information about that user.
 
