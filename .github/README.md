@@ -4,7 +4,7 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=valkyrienyanko_BrawlhallaSite&metric=bugs)](https://sonarcloud.io/dashboard?id=valkyrienyanko_BrawlhallaSite)
 [![GitHub license](https://img.shields.io/github/license/valkyrienyanko/BrawlhallaSite?color=brightgreen)](https://github.com/valkyrienyanko/BrawlhallaSite/blob/master/LICENSE)
 [![Issues](https://img.shields.io/github/issues/valkyrienyanko/BrawlhallaSite)](https://github.com/valkyrienyanko/BrawlhallaSite/issues)
-[![Discord](https://img.shields.io/discord/453710350454620160.svg)](https://discordapp.com/invite/N9QVxbM)
+[![Discord](https://img.shields.io/discord/453710350454620160.svg)](https://discord.gg/thMupbv)
 [![GitHub stars](https://img.shields.io/github/stars/valkyrienyanko/BrawlhallaSite?color=brightgreen)](https://github.com/valkyrienyanko/BrawlhallaSite/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/valkyrienyanko/BrawlhallaSite?color=brightgreen)](https://github.com/valkyrienyanko/BrawlhallaSite/network)
 
