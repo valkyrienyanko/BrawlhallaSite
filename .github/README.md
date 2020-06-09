@@ -26,4 +26,4 @@ View the latest deployments [here](https://github.com/valkyrienyanko/BrawlhallaS
 8. Open up `localhost:4000` in your browser
 
 ## Contributing
-See [CONTRIBUTING.md](https://github.com/valkyrienyanko/BrawlhallaSite/blob/master/CONTRIBUTORS.md)
+See [CONTRIBUTING.md](https://github.com/valkyrienyanko/BrawlhallaSite/blob/master/.github/CONTRIBUTING.md)
